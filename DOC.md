@@ -12,7 +12,7 @@ Sets `count` clicks to click automatically<br>
 *default `count` value: 1*
 
 ### `popcatHack.setWaitTime(time)` method
-Sets `time` seconds to wait between automatic clicks<br>
+Sets `time` ms to wait between automatic clicks<br>
 *default `time` vaue: 3*
 
 ### `popcatHack.setUnpopCat(unpop)` method
