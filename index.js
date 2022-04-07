@@ -50,4 +50,6 @@ class PopcatHack {
 	}
 }
 
-const popcatHack = new PopcatHack();
+try{
+popcatHack = new PopcatHack();
+}catch{const popcatHack = new PopcatHack()}
