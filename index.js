@@ -16,6 +16,7 @@ class PopcatHack {
 		for (let i = 0; i < this.clickers; i++){
 			this.timeouts.push(setInterval(() => this.pop(), this.waitTime));
 		}
+		this.isActive = true
 	}
 
 	startAll(){
